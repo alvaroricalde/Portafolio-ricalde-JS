@@ -1,0 +1,17 @@
+{
+  "name": "portafolio-alvaro",
+  "version": "1.0.0",
+  "description": "Portafolio personal de Álvaro Ricalde (Node.js + Express + MySQL)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Álvaro Ricalde",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}

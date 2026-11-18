@@ -1,0 +1,13 @@
+# Dependencias (se reinstalan con "npm install")
+node_modules/
+
+# Credenciales: NUNCA subir
+.env
+.env.*
+!.env.example
+
+# Basura del sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
